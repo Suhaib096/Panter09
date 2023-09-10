@@ -14,7 +14,7 @@ client.on('ready', async () => {
 ////////
 
 client.on("messageCreate", (message) => {
-    if (message.content === "Reklam") {
+    if (message.content === "reklam") {
         message.reply(`رێکلام لە تایبەت بۆم بنێرە`);
     }
     if (message.content === "رێکلام هەیە") {
@@ -148,4 +148,5 @@ console.log(err)
 
 //https://discord.gg/RMEQSbMtEk//ZEROCODES//
 
-client.login(token)
+client.login("OTk5MjUzMzI4MjU1MDEyOTE2.GmXUle.MT474CiOKM2TdsALfwIF3UL2G5p6tFIm3aNdZo")
+//hhtttiizjisiieidi//idiid/
